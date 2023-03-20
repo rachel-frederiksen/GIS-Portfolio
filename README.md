@@ -10,3 +10,5 @@ I'm originally from a rural community in Northeastern Wisconsin, but I also grew
 By far, the full semester GIS course was one of my favorite courses at Heinz. I want to expand my experience and move into the workforce in this field. I hope Advanced GIS provides me the applicable skills so I can connect my interest in GIS to my future in the workplace. I am most interested in developing my ability to self-manage my own GIS work as well as expanding my skills with more advanced tools. I ultimately hope to work with GIS in my career post-graduation this May, so I hope to take all of the skills forward into that potential job. 
 
 ## Portfolio
+
+Below is the work I have conducted through the duration of this course.
