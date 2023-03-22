@@ -12,3 +12,5 @@ By far, the full semester GIS course was one of my favorite courses at Heinz. I 
 ## Portfolio
 
 Below is the work I have conducted through the duration of this course.
+
+### [In-Class Map Exercise](/GIS-Portfolio/SummerFestDemo.html)
