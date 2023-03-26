@@ -41,7 +41,9 @@ The third image shows the widest, yet still applicable, zoom of St Paul and Minn
 A dynamic map would be most beneficial for Frogtown Farm as it is a single destination, and residents come from a variety of distances across the area. However, for the purposes of this assignment, the static images can also be helpful. 
 
 ## JSON File
-To access the JSON file with these style specifications, **[CLICK HERE](/FrogtownCustomMap.json)**. 
+To access the JSON file with these style specifications, **[CLICK HERE](/FrogtownCustomMap.json)**.
+
+<a href="FrogtownCustomMap/json" download>Click to Download</a>
 
 ### Intructions to Use JSON Code
 1. Open JSON file in a text/source code editor such as [Sublime Text](https://www.sublimetext.com/).
