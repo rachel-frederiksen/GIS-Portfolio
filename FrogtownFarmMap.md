@@ -19,19 +19,21 @@ I took this screenshot off the Frogtown Farm's Facebook page, and used the [Adob
 For the actual build, I used Google Map's style wizard. To start, I chose the **Retro** for my base theme as it already had a similar color palette. While I would be changing the colors, having some existing framework for how tans, yellows, and greens looked against each other was helpful when deciding which colors would be used for which features. As such, I have created a look up table that highlights all visible aspects of the map including their feature, element, and style information. That information is in the table below.
 
 ![Look Up Table](/LookUp.PNG)
-
 This styling has created a neutral map that works with Frogtown Farm's overall theme: a neutral, earthy tone. The following images are of this customized map at varying zoom levels that are applicable to users interested in this organization.
 
-### Image 1
+### Imae 1
 This first image shows a close-up zoom of Frogtown Farm, including both the office space as well as the actual plot of land. This level of detail would allow users to find the specific directions necessary to get to the exact location if they were in somewhat close proximity. This level of detail also allows users to see the general overview of the property.
 ![First Image](/Frog1.PNG)
 
 ### Image 2
-
+This second image shows as wider zoom of the neighborhood as well as others nearby. This level of detail allows users to locate where Frogtown is in proxomity to other major locations or neighborhoods. 
 ![Second Image](/Frog2.PNG)
 
 ### Image 3
-
+The third image shows the widest, yet still applicable, zoom of St Paul and Minneapolis (otherwise known as the Twin Cities). This level of detail allows users to locate Frogtown in the context of the cities at large, though this scope would only be helpful after the use of one of the previous images due to its scale. 
 ![Third Image](/Frog3.PNG)
+
+### Disclaimer
+A dynamic map would be most beneficial for Frogtown Farm as it is a single destination, and residents come from a variety of distances across the area. However, for the purposes of this assignment, the static images can also be helpful. 
 
 
