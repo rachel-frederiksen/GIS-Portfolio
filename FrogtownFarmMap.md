@@ -23,4 +23,15 @@ For the actual build, I used Google Map's style wizard. To start, I chose the **
 This styling has created a neutral map that works with Frogtown Farm's overall theme: a neutral, earthy tone. The following images are of this customized map at varying zoom levels that are applicable to users interested in this organization.
 
 ### Image 1
+This first image shows a close-up zoom of Frogtown Farm, including both the office space as well as the actual plot of land. This level of detail would allow users to find the specific directions necessary to get to the exact location if they were in somewhat close proximity. This level of detail also allows users to see the general overview of the property.
 ![First Image](/Frog1.PNG)
+
+### Image 2
+
+![Second Image](/Frog2.PNG)
+
+### Image 3
+
+![Third Image](/Frog3.PNG)
+
+
