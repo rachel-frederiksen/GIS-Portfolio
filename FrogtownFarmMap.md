@@ -36,4 +36,16 @@ The third image shows the widest, yet still applicable, zoom of St Paul and Minn
 ### Disclaimer
 A dynamic map would be most beneficial for Frogtown Farm as it is a single destination, and residents come from a variety of distances across the area. However, for the purposes of this assignment, the static images can also be helpful. 
 
+## JSON File
+To access the JSON file with these style specifications, **[CLICK HERE](/FrogtownCustomMap.json)**. 
+
+### Intructions to Use JSON Code
+1. Open JSON file in a text/source code editor such as [Sublime Text](https://www.sublimetext.com/).
+2. Open the [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/)
+3. Click the three stacked dots on the blue banner that reads "Create map style"
+4. Click "Import JSON"
+5. Copy code off Sublime (or whatever text/source code editor you choose)
+6. Paste into applicable box
+7. Click "Import JSON"
+
 
