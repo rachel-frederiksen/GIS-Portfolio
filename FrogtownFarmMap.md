@@ -43,3 +43,19 @@ A dynamic map would be most beneficial for Frogtown Farm as it is a single desti
 ## JSON Code
 To access the JSON code with these style specifications, **[CLICK HERE](/FrogtownCustomMap.json)**.
 
+## Further Instructions
+
+*To Use the JSON Code...*
+1. Copy the code off the link above.
+2. To save to a JSON file for later use, paste the code into a text/source code editor tool. I recommend [Sublime](https://www.sublimetext.com/).
+3. Save the file as a JSON file.
+
+*To Upload the JSON Code into the Google Maps Style Wizard...*
+1. Copy the JSON code from above OR off your saved JSON file.
+2. Open the [Google Maps Style Wizard](https://mapstyle.withgoogle.com/)
+3. Click the three stacked dots on the blue banner that reads "Create map style"
+4. Click "Import JSON"
+5. Paste JSON code into the applicable space
+6. Click "Import JSON"
+
+These instructions allow access to the specific styling. Further steps beyond the scope of Phase 1 in this assignment would need to be taken to embed a dynamic map on Frogtown Farm's website.
