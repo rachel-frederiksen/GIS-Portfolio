@@ -16,4 +16,6 @@ I took this screenshot off the Frogtown Farm's Facebook page, and used the [Adob
 ![Frogtown Farm Color Palette](/Colors.PNG)
 
 ## Map Build
+For the actual build, I used Google Map's style wizard. To start, I chose the **Retro** for my base theme as it already had a similar color palette. While I would be changing the colors, having some existing framework for how tans, yellows, and greens looked against each other was helpful when deciding which colors would be used for which features. As such, I have created a look up table that highlights all visible aspects of the map including their feature, element, and style information. That information is in the table below.
 
+![Look Up Table](/LookUp.PNG)
