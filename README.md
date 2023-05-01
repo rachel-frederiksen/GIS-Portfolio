@@ -20,3 +20,10 @@ Below is the work I have conducted through the duration of this course.
 ## For-Credit Assignments
 
 ### [Assignment: Build a Custom Map](/GIS-Portfolio/FrogtownFarmMap.html)
+
+### [Final Project](/GIS-Portfolio/FinalProject.html)
+
+# Class Reflections
+I really enjoyed my time in this course, especially as I was finishig up my time at Heinz College. My favorite sections to work with were the ones that expanded upon my existing knowledge, though most of it did. I can see myself very easily customizing Google Maps for clients, or using ArcGIS Insights at an entity who lacks access to the full ArcGIS Pro license. In the future, I intend to expand my knowledge of Python coding so I can expand my use of ArcGIS Notebooks beyond the in-class tutorials we went through. I can absolutely see the value in that knowledge, especially in more technical roles where explicit GIS work is less relevant on the surface.
+
+This class also taught me a lot about my own time management skills, which I will be looking to improve as I encounter future scenarios of similar high-stress levels. 
