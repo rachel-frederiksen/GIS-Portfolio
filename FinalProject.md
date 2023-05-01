@@ -1,0 +1,4 @@
+# Final Project for Advanced GIS
+
+## Project Introduction
+For my final project, I expanded upon my full semester GIS-focused independent study with the approval of both my independent study advisor and professor. The independent study's purpose was to compile an array of variables not often displayed geographically relating broadband speeds and agriculture in Minnesota by each county. For my final project in Advanced GIS, I chose to refer to data visualization techniques taught in Week 4 to diversify the way this information could be translated to varying audiences. I also chose to expand upon the analysis by diving into the linear relationships between variables, hoping to discover some trend that might help steer broadband advocacy groups in the future in a more productive direction in their advocacy. 
